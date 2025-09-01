@@ -1,0 +1,5 @@
+audio 1
+https://github.com/thedevcube/LAC-RELATED-STUFF/blob/e82c30a51d61196c4d52463c665e471559ada2d6/Maze%20boom/tracks/MLAYER1.mp3
+
+audio 2
+https://github.com/thedevcube/LAC-RELATED-STUFF/blob/e82c30a51d61196c4d52463c665e471559ada2d6/Maze%20boom/tracks/MLAYER2.mp3
